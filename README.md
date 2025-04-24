@@ -4,7 +4,7 @@ My name is Koquiun, also known as Franklin. I recently graduated from the Univer
 
 - 🔭 I’m currently learning Power BI, cloud computing, and web developement.
 - 🌱 I recently built a testing pipeline for evaluating critical period effects in large language models using grammaticality judgments and perplexity-based accuracy metrics during my summer internship at the University of Melbourne as an undergraduate research student.
-- ⚡ Fun fact: I can speak 4 languages fluently.
+- ⚡ Fun fact: I can speak 4 languages fluently -- English, Mandarin, Cantonese, and Spanish.
 
 <!--
 **klilin711/klilin711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
