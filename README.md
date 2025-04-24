@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Koquiun, also known as Franklin, and I am a graduate student from the University of Melbourne, majoring in Data Science. I am interested in Python & Data Science!
+My name is Koquiun, also known as Franklin. I recently graduated from the University of Melbourne with a major in Data Science, and I’m passionate about Python and all things data science!
 
 - 🔭 I’m currently learning Power BI, cloud computing, and web developement.
 - 🌱 I recently built a testing pipeline for evaluating critical period effects in large language models using grammaticality judgments and perplexity-based accuracy metrics during my summer internship at the University of Melbourne as an undergraduate research student.
